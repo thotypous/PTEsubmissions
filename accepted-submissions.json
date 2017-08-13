@@ -1,1 +1,24 @@
-{"standings": [{"lastAccept": 1502662274, "score": 25, "pos": 1, "taskStats": {"test2": {"points": 25, "time": 1502662274}}, "team": "Epic Leet Team"}], "tasks": ["test2"]}
+{
+ "standings": [
+  {
+   "lastAccept": 1502667996, 
+   "pos": 1, 
+   "score": 45, 
+   "taskStats": {
+    "test1": {
+     "points": 20, 
+     "time": 1502667996
+    }, 
+    "test2": {
+     "points": 25, 
+     "time": 1502662274
+    }
+   }, 
+   "team": "Epic Leet Team"
+  }
+ ], 
+ "tasks": [
+  "test2", 
+  "test1"
+ ]
+}
